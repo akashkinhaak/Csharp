@@ -2,7 +2,7 @@ using System;
 
 public class programone
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         Console.Writeline("Hello Akash")
     }
