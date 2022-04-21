@@ -4,7 +4,7 @@
 <h1>Get Preview For Source Files And Programs <a href = "https://akashkinhaak.github.io/Csharp"> Here </a> </h1>
 <hr>
 <h3>C# OverView </h3>
-<img src = " ./images/screenshot01.png " height = "70%" width = "70%" >
+<img src = "./images/screenshot01.png " height="70%" width="70%">
 <hr>
 <h3>Programs Below </h3>
 <img src = "./images/screenshot02.png " height="70%" width="70%">
